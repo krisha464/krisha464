@@ -11,13 +11,13 @@ Currently building with:
 I like projects that sit somewhere between analytics, AI, and user experience.
 
 Recent builds:
-### 🏥 Carelytics
+- Carelytics
 Healthcare analytics dashboard for operational, patient care, and financial insights.
 
-### 📊 FundXplore
+- FundXplore
 Mutual fund performance analysis dashboard with risk-return metrics and investor insights.
 
-### 🤖 Linguistix
+ -Linguistix
 AI-powered NLP translation application with OCR, voice input, and gamified learning.
 Currently exploring the intersection of:
 Data • AI • Visualization • User Experience
