@@ -1,8 +1,9 @@
-# Hey, I'm Kanika 👋
+# Hey, myself kanika  👋
 
 I enjoy turning raw data into interactive dashboards, analytics stories, and AI-powered applications.
 
 Currently building with:
+
 📊 Power BI & DAX  
 🐍 Python & SQL  
 🤖 NLP & Machine Learning  
