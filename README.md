@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Kanika 👋
 
-<!--
-**krisha464/krisha464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy turning raw data into interactive dashboards, analytics stories, and AI-powered applications.
 
-Here are some ideas to get you started:
+Currently building with:
+📊 Power BI & DAX  
+🐍 Python & SQL  
+🤖 NLP & Machine Learning  
+✨ Streamlit apps that make data feel less boring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like projects that sit somewhere between analytics, AI, and user experience.
+
+Recent builds:
+### 🏥 Carelytics
+Healthcare analytics dashboard for operational, patient care, and financial insights.
+
+### 📊 FundXplore
+Mutual fund performance analysis dashboard with risk-return metrics and investor insights.
+
+### 🤖 Linguistix
+AI-powered NLP translation application with OCR, voice input, and gamified learning.
+Currently exploring the intersection of:
+Data • AI • Visualization • User Experience
+
+## 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/kanika-dogra-ds
+- GitHub: github.com/krisha464
