@@ -23,5 +23,5 @@ Data • AI • Visualization • User Experience
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/kanika-dogra-ds
+- LinkedIn: www.linkedin.com/in/kanika-dogra-ds
 - GitHub: github.com/krisha464
